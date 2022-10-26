@@ -1,0 +1,20 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "curso de node JS de fazt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "node",
+    "curso",
+    "practica"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
